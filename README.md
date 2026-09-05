@@ -2,10 +2,7 @@
 
 Engineer working across AI systems and on-chain infrastructure.
 
-Two tracks run in parallel. AI and data work — ML pipelines over IoT sensor data for clean energy,
-annotation and model evaluation for RLHF and SFT workflows. And on-chain building — agent payment
-channels, sealed-bid coordination, prediction markets — usually inside a hackathon window, usually
-deployed by the end of it. I also write technical documentation at [Cysic](https://cysic.xyz), on
+I’m a mechatronics engineer interested in technology, artificial intelligence, robotics, and software. I’ve worked on AI projects, written technical content, and supported projects involving cryptography and blockchain technology. I’ve also worked with international engineering teams and helped coordinate projects across different countries. I also write technical documentation at [Cysic](https://cysic.xyz), on
 zk-proof infrastructure and CyOps.
 
 **Current focus** — decentralized applications and escrow protocols on EVM networks · stablecoin
