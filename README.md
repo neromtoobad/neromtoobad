@@ -14,6 +14,7 @@ finance, agentic commerce, smart contract integrations, and wallet infrastructur
 
 | Hackathon | Project | |
 |---|---|---|
+| Somnia × dreamDEX — Event Contracts | [**Ropes**](https://github.com/neromtoobad/ropes) | A battle royale on bitcoin: every round, half the players die. Each seat is a live trade on a dreamDEX BTC event contract — pick UP or DOWN, and survivors' stacks multiply at the odds they took and roll straight into the next round while the wrong side is out. Eliminations land on-chain through Somnia's on-chain reactivity in the same block as settlement — no keeper, no cron; the chain runs the tournament. [playropes.vercel.app](https://playropes.vercel.app) |
 | Arkiv Ideathon — *Great Ideas* | [**Tideland**](https://tideland-arkiv.vercel.app) | An open, serverless game world the tide is always taking back. Every wall and monument is an Arkiv entity kept alive by Lifetime Extension — pine fades in days, stone in a season, monuments stand for years — so materials *are* lifetimes and anything players stop maintaining sinks off the query surface. Decay is protocol physics, not game code: no GM can save a monument the players stopped funding. |
 | OKX.AI Trading Hackathon | [**Optic AI**](https://github.com/neromtoobad/optic) | One agent that reads memecoins, prediction markets, tokenized stocks and social attention as a single economy, and reports where they stop agreeing — that gap is the signal. No login, no API key: the x402 payment *is* the auth. It never issues a trade instruction, and directive language is lint-gated in code. [Agent #4380](https://www.okx.ai/agents/4380) · 5.0 ★ · nine services · [optic-ai.xyz](https://optic-ai.xyz) |
 | MetaMask Smart Accounts Kit × 1Shot × Venice | [**CROSSFIRE**](https://github.com/neromtoobad/crossfire) | Five adversarial AI forecasters stake real USDC from an ERC-7710 delegation the chain enforces — an agent that bluffs can't afford to look confident. Users follow or fade via revocable ERC-7715 mandates. |
@@ -31,8 +32,7 @@ agent economy, five services paid per call over x402 on X Layer, [OKX.AI #6731](
 rank by accuracy *and* ROI, on Arc)
 
 **Prediction markets** — [Doom](https://github.com/neromtoobad/doom) (visible odds, invisible bettors —
-live on Starknet mainnet via the STRK20 privacy pool) · [THE CLIMB](https://github.com/neromtoobad/the-climb)
-(your climber's height *is* your position's live value) · [SOOTH](https://github.com/neromtoobad/sooth)
+live on Starknet mainnet via the STRK20 privacy pool) · [SOOTH](https://github.com/neromtoobad/sooth)
 (a market-priced oracle for claims no signature can attest) · [FORUM](https://github.com/neromtoobad/forum) ·
 [Delphi Duel](https://github.com/neromtoobad/delphi-duel)
 
